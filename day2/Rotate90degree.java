@@ -1,3 +1,4 @@
+/*Write a program to read a matrix(2D) and rotate it based on input (Right/Left)*/
 import java.io.*;
 import java.util.*;
 public class Rotate90degree {

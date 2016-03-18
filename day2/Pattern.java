@@ -1,6 +1,7 @@
+/*Write a program to print the pattern */
 import java.io.*;
 import java.util.*;
-class Day2_1
+class Pattern
 {
    public static void main(String ar[])
 {

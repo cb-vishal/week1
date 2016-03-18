@@ -1,6 +1,7 @@
+/*Write a program to find out simple and compound interest.*/
 import java.io.*;
 import java.util.*;
-class Day2_4
+class SimpleCompoundInterest
 {
   public static void main(String ar[])
    {

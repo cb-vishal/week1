@@ -1,6 +1,9 @@
+/*Write a program to find the summation of indices of the characters in given input is odd or even. Indices start from 1(for a) to 26(for z).
+Input: abc
+Output: even (1+2+3 =6)*/
 import java.io.*;
 import java.util.*;
-class Day2_3
+class CharSummation
 {
    public static void main(String ar[])
 {

@@ -1,3 +1,4 @@
+/*Print the smallest and largest number in an integer array.*/
 import java.io.*;
 import java.util.*;
 class Arrayminmax

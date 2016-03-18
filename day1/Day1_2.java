@@ -1,3 +1,4 @@
+/*Write a program that would add two numbers x & y and print the sum z where x + y = z. */
 import java.io.*;
 import java.util.*;
 class Day1_2

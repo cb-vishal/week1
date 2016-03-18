@@ -1,7 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Day2_2
-{
+class MatrixLeftRotation{
    public static void leftRotate(int m[][],int n)
     {
       int i=0,t;

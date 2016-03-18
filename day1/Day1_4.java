@@ -1,3 +1,10 @@
+/*Write a program to find the smallest power of x that is greater than y.
+
+Example:
+
+Sample Input : x = 4 & y = 60
+Output : 3 (as smallest power of 4 greater than 60 is 3) */
+
 import java.io.*;
 import java.util.*;
 class Day1_4

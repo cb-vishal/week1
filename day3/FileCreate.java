@@ -1,7 +1,7 @@
 package pack;  
 import java.io.File;
 import java.io.IOException;
-public class A{  
+public class FileCreate{
   public void createFile(){
 try{
          File file = new File("myfile.txt");

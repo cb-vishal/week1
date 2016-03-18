@@ -1,3 +1,5 @@
+
+/*Write a simple "Hello World" program.*/
 import java.io.*;
 class Day1_1
 {
